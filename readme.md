@@ -27,3 +27,9 @@
 ###### I am comfortable working with modern front-end frameworks like React and Vue.js, and I enjoy building responsive user interfaces using Tailwind CSS and Bootstrap. On the backend, I use Firebase to manage authentication, databases, and hosting.
 ###### I primarily code in JavaScript and TypeScript, but I also have experience with Python for scripts and backend logic. I build, deploy, and optimize applications using tools like Vite, Nginx, Docker, and Node.js.
 ###### I’m always looking to learn and expand my stack with tools that improve performance, maintainability, and scalability.
+
+
+
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Kcyvx&show_icons=true&locale=fr&layout=compact&theme=dark" alt="ton-username-github" />
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=Kcyvx&show_icons=true&locale=fr&theme=dark" alt="ton-username-github" /></p>
+
